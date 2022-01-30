@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 
+=======
+To understand the concepts of Git.
+>>>>>>> 83ea072707906f7d7c6b0824b0ac59e71070108f
